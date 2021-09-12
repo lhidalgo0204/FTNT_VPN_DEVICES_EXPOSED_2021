@@ -1,0 +1,2 @@
+# FTNT_VPN_DEVICES_EXPOSED_2021
+Fortinet Victim List
